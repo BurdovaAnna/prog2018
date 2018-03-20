@@ -1,0 +1,9 @@
+c:\users\аня\documents\visual studio 2015\Projects\Lab2BinarySearch\Lab2BinarySearch\bin\Debug\Lab2BinarySearch.exe.config
+c:\users\аня\documents\visual studio 2015\Projects\Lab2BinarySearch\Lab2BinarySearch\bin\Debug\Lab2BinarySearch.exe
+c:\users\аня\documents\visual studio 2015\Projects\Lab2BinarySearch\Lab2BinarySearch\bin\Debug\Lab2BinarySearch.pdb
+c:\users\аня\documents\visual studio 2015\Projects\Lab2BinarySearch\Lab2BinarySearch\obj\Debug\Lab2BinarySearch.csprojResolveAssemblyReference.cache
+c:\users\аня\documents\visual studio 2015\Projects\Lab2BinarySearch\Lab2BinarySearch\obj\Debug\Lab2BinarySearch.exe
+c:\users\аня\documents\visual studio 2015\Projects\Lab2BinarySearch\Lab2BinarySearch\obj\Debug\Lab2BinarySearch.pdb
+C:\Users\Аня\Desktop\prog2018\Lab2BinarySearch\Lab2BinarySearch\bin\Debug\Lab2BinarySearch.exe.config
+C:\Users\Аня\Desktop\prog2018\Lab2BinarySearch\Lab2BinarySearch\obj\Debug\Lab2BinarySearch.exe
+C:\Users\Аня\Desktop\prog2018\Lab2BinarySearch\Lab2BinarySearch\obj\Debug\Lab2BinarySearch.pdb
